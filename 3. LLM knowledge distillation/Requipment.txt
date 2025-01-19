@@ -1,0 +1,11 @@
+numpy 1.26.4
+pandas 2.2.2
+Python 3.10.11
+torch 2.0.1+cu117
+torch-cluster 1.6.1+pt20cu117
+torch-geometric 2.3.1
+torch-scatter 2.1.1+pt20cu117
+torch-sparse 0.6.17+pt20cu117
+torch-spline-conv 1.2.2+pt20cu117
+torchvision 0.15.2+cu117
+matplotlib 3.7.1
